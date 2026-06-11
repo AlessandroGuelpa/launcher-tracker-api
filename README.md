@@ -156,8 +156,4 @@ curl http://localhost:3000/api/v1/launches/upcoming?limit=1
 
 ## Frontend
 
-The companion React frontend is available at [launch-tracker-frontend](https://github.com/yourusername/launch-tracker-frontend). It consumes this API and provides a mission-control style dashboard with live countdown, search, filtering, and statistics visualization.
-
-## License
-
-MIT
+The companion React frontend is available at [launch-tracker-frontend](https://github.com/AlessandroGuelpa/launch-tracker-frontend). It consumes this API and provides a mission-control style dashboard with live countdown, search, filtering, and statistics visualization.
